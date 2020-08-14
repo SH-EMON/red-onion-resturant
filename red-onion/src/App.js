@@ -26,6 +26,9 @@ function App() {
       
       <Router>
           <Switch>
+              <Route exact path="/">
+                  <Breakfast></Breakfast>
+              </Route>
               <Route path="/breakfast">
                   <Breakfast></Breakfast>
               </Route>
