@@ -1,0 +1,19 @@
+.breakfast-wrapper{
+    width:1000px;
+    margin:50px auto;
+    margin-left:235px;
+}
+.breakfast-box{
+    width:300px;
+    display:inline-block;
+    margin-right:30px;
+    text-align:center;
+    margin-bottom:20px;
+}
+.breakfast-box:hover{
+    box-shadow: 2px 3px 10px lightgray;
+}
+.breakfast-box img{
+    width:250px;
+    height:250px;
+}

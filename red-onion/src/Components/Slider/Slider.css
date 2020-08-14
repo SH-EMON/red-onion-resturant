@@ -1,0 +1,24 @@
+.slider{
+    width: 1259px;
+    height: 392px;
+    background-image: url(../../images/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: -21px;
+    margin-left: 41px;
+}
+.slider input{
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: -25px;
+    margin-right: 20px;
+}
+.slider .search-btn{
+    padding: 10px 20px;
+    border-radius: 25px;
+
+}
+.slider .slide-child{
+    text-align: center;
+    padding-top:95px;
+}

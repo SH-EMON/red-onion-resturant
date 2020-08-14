@@ -1,0 +1,50 @@
+.food-content-wrapper{
+    width:1000px;
+    margin-left:100px;
+    margin-top:80px;
+}
+.why-part{
+    text-align:center;
+    padding-bottom:15px;
+    margin-left:120px;
+}
+.food-cart{
+    display:flex;
+    margin-left:90px;
+    text-align:center;
+}
+.food-cart img{
+    width:300px;
+    height:270px;
+}
+.food-cart-item{
+    margin-right:45px;
+}
+.food-cart-item h2{
+    background-image: url(../../images/bell-icon.png);
+    background-repeat:no-repeat;
+    padding:10px;
+    margin-right: 40px;
+    margin-top: 15px;
+}
+.food-cart-item p{
+    text-align:justify;
+}
+.food-cart-item a{
+    font-weight: bold;
+    color: blue;
+    padding-bottom: 20px;
+    display: block;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(../../images/right-arrow.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+    margin-right: 110px;
+    margin-left: 60px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}

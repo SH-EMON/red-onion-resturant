@@ -1,0 +1,44 @@
+.header-wrapper{
+    background:#415c82;
+    display:flex;
+    padding:30px 100px;
+    width:960px;
+    margin:0 auto;
+    margin-left:102px;
+}
+.header-left{
+    width:40%;
+    margin-right:10%;
+    padding-bottom:20px;
+}
+.header-left img{
+    width:200px;
+    z-index: 5;
+}
+.header-left .onion{
+    margin-bottom:-50px;
+    margin-left:-90px;
+    z-index:10;
+}
+.header-right{
+    margin-top:20px;
+    margin-left:270px;
+}
+.header-right .scart{
+    color:#fff;
+}
+.header-right a{
+    color:#fff;
+    text-decoration:none;
+    cursor:pointer;
+    padding:0 30px;
+}
+.header-right .signup-btn{
+    background-color: #168746;
+    color: #fff;
+    padding: 7px 15px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
